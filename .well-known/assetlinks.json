@@ -1,7 +1,7 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { 
-    "namespace": "android_app", 
-    "package_name": "com.insitu.vusitu",
+    "namespace": "VuSitu", 
+    "package_name": "com.insitu.developer.vusitu",
     "sha256_cert_fingerprints": ["D9:B6:FD:9D:07:24:E1:E3:5E:FC:24:A8:50:9D:26:BC:07:EB:BA:62:A1:86:C8:42:4E:C2:2B:9B:5F:DC:C0:01"] }
 }]
